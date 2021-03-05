@@ -2,6 +2,6 @@
 
 ### Hi there!
 
-I'm an open source lover and active programmer from Finland. I'm always working on my own projects and studying new things like compilers and math. In the past I've contributed to projects like [Ruby on Rails](https://github.com/rails/rails/commit/758ba117a008b6ea2d3b92c53b6a7a8d7ccbca69). For further information you can check out my website [mauri.codes](https://www.mauri.codes/).
+I'm Mauri from Finland, an active programmer and open source lover. During my free time I'm always working on my own projects and love studying new things like compilers and math. I love contributing to open source and hosting [talks](https://github.com/Kazhuu/talks). I've been contributing to projects like [Ruby on Rails](https://github.com/rails/rails/commits/master?author=Kazhuu), [LLVM](https://github.com/llvm/llvm-project/commits/master?author=Kazhuu), [Region Vectorizer](https://github.com/cdl-saarland/rv/commits/master?author=mauri.mustonen@tuni.fi), [TCE](https://github.com/cpc/tce/commits/master?author=mauri.mustonen@tuni.fi) and [pocl](https://github.com/pocl/pocl/commits/master?author=mauri.mustonen@tuni.fi). I'm also co-founder and CEO of [Lumitum Ltd](https://www.lumitum.com). For further information you can check out my website [mauri.codes](https://www.mauri.codes/).
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kazhuu&show_icons=true" alt="kazhuu" /> </p>
